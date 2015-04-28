@@ -2,7 +2,7 @@
 title: Jörans Blog
 email: joeran.kurschatke@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hier schreibe ich über meine persönlichen und beruflichen Erfahrungen.
+  Blogging about work and life.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://machwatt.github.io" # the base hostname & protocol for your site
 twitter_username: kuemmeler
@@ -18,5 +18,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
       author: "Jöran Kurschatke"
