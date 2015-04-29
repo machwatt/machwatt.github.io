@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Building a slider with sf-filecollection-gallery"
+description: "How to build an image slider with sf_filecollection_gallery and TYPO3 FileCollection"
 date:   2015-04-28 12:52:19
 tags: typo3 cms sf-filecollection-gallery slider
 ---
