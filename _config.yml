@@ -19,6 +19,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       author: "Jöran Kurschatke"
+      image: 
 
 gems:
   - jekyll-mentions
